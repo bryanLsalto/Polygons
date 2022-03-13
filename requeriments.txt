@@ -1,0 +1,5 @@
+sudo apt-get install antlr4
+pip3 install antlr4-python3-runtime
+pip3 install python-telegram-bo
+python3 -m pip install --upgrade pip
+python3 -m pip install --upgrade Pillow
